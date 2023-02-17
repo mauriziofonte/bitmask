@@ -1,0 +1,5 @@
+.idea/*
+/vendor/
+coverage.xml
+composer.lock
+.php-cs-fixer.cache
